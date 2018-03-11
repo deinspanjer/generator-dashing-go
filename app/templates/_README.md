@@ -38,9 +38,9 @@ If you need to build just `application.js` or `application.css`, you may run eac
 
 Create new dashboards, jobs and widgets:
 
-    yo dashing-go:dashboard foo
-    yo dashing-go:job foo
-    yo dashing-go:widget foo
+    yo dashing:dashboard foo
+    yo dashing:job foo
+    yo dashing:widget foo
 
 Note the following naming conventions (the generator automatically enforces them):
 
@@ -48,7 +48,7 @@ Note the following naming conventions (the generator automatically enforces them
 * under_score for Go job filenames
 * camelCase for Go job structs
 
-Existing third party Dashing widgets should be compatible with dashing-go.
+Existing third party Dashing widgets should be compatible with dashing.
 
 ## License
 

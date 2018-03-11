@@ -4,7 +4,7 @@ import (
     "time"
     "math/rand"
 
-    "github.com/gigablah/dashing-go"
+    "github.com/shoobyban/dashing"
 )
 
 type buzzwords struct{

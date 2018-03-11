@@ -3,7 +3,7 @@ package jobs
 import (
     "time"
 
-    "github.com/gigablah/dashing-go"
+    "github.com/shoobyban/dashing"
 )
 
 type <%= _.camelize(name) %> struct{}

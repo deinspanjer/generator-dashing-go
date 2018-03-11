@@ -1,10 +1,10 @@
 {
   "name": "<%= _.slugify(appName) %>",
   "version": "0.0.0",
-  "description": "A dashing-go dashboard",
+  "description": "A dashing dashboard",
   "repository": {
     "type": "git",
-    "url": "git://github.com/gigablah/generator-dashing-go.git"
+    "url": "git://github.com/deinspanjer/generator-dashing.git"
   },
   "dependencies": {},
   "devDependencies": {

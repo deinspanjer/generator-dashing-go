@@ -1,7 +1,7 @@
 package main
 
 import (
-    "github.com/gigablah/dashing-go"
+    "github.com/shoobyban/dashing"
     _ "./jobs"
 )
 
